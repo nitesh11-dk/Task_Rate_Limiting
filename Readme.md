@@ -19,8 +19,3 @@ This application implements rate limiting and task queueing for an Express-based
 - **File Write Errors**: The file write for logging is done asynchronously, and errors are logged to the console if any occur.
 
 ---
-
-### To Submit:
-- **Source Code**: Include the updated JavaScript code in a `.js` file.
-- **Configuration Files**: If you have a `package.json` or any related config files, include those as well.
-- **Documentation**: A brief explanation of the approach, assumptions, and how the rate limiting and queueing mechanism works.
